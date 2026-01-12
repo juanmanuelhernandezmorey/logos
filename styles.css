@@ -27,6 +27,11 @@ body{
     var(--bg);
 }
 
+a {
+    color: inherit;      /* Hereda el color del texto circundante */
+    text-decoration: none; /* Quita el subrayado */
+}
+
 /* =========================
    Layout
 ========================= */
