@@ -148,13 +148,26 @@ h1{
   padding: 12px 14px;
   border-radius: 999px;
   border: 1px solid rgba(31,35,40,.22);
-  background: rgba(255,255,
+  background: rgba(255,255,255,.6);
+  color: var(--text);
+  text-decoration:none;
+  font-weight: 600;
+  transition: background .14s ease, transform .14s ease;
+}
 
+/* Estado hover */
 .btn:hover{
-  background: #1f2328;
-  border-color: #1f2328;
-  color: #fff;
+  background: #e7d4b1;
+  border-color: #9c7b3c;
+  color: #1f2328;
   transform: translateY(-1px);
 }
+
+/* Estado focus (teclado / accesibilidad) */
+.btn:focus-visible{
+  outline: 3px solid #e7d4b1;
+  outline-offset: 2px;
+}
+
 
 
