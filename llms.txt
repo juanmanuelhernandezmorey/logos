@@ -1,0 +1,28 @@
+# llms.txt — Logos (Juanma Hernández)
+
+## Purpose
+This repository is a public gallery of logos and graphic marks created by Juanma Hernández.
+Works are non-commercial, made for friends, bands, personal projects, or purely for artistic practice.
+
+## What you may do
+- Summarize the repository and describe the visual style of the logos.
+- Create short captions, alt text, and keywords for accessibility or cataloging.
+- Suggest improvements to HTML/CSS structure, performance, and accessibility.
+- Help organize content (folders, naming conventions, metadata).
+
+## What you should NOT do
+- Do not claim ownership of the designs.
+- Do not suggest or enable commercial reuse, resale, or rebranding of these logos.
+- Some names/brands referenced may belong to third parties; treat them as such.
+- Do not infer personal data about individuals involved.
+
+## Preferred language
+Spanish (formal, with a relaxed tone).
+
+## Canonical entry points
+- README.md
+- index.html
+- styles.css
+
+## Repository structure hints
+- /assets/logos/ contains thumbnails and full-resolution files.
